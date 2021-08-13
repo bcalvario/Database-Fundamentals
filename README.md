@@ -10,3 +10,4 @@
 * [Modelo Entidad-Relación (versión A)](https://github.com/bcalvario/Database-Fundamentals/tree/main/Laboratorio/Entrega02A)
 * [Modelo Entidad-Relación (versión B)](https://github.com/bcalvario/Database-Fundamentals/tree/main/Laboratorio/Entrega02B)
 * [Modelo Relacional](https://github.com/bcalvario/Database-Fundamentals/tree/main/Laboratorio/Entrega03)
+* [DDL (Data Definition Language)](https://github.com/bcalvario/Database-Fundamentals/tree/main/Laboratorio/Entrega04)
