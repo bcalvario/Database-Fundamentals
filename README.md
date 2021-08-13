@@ -7,4 +7,5 @@
 * [Álgebra Relacional](https://github.com/bcalvario/Database-Fundamentals/tree/main/Tareas/Tarea04)
 
 ## Laboratorio:
-* [Modelo Entidad-Relación](https://github.com/bcalvario/Database-Fundamentals/tree/main/Laboratorio/Entrega02A)
+* [Modelo Entidad-Relación (versión A)](https://github.com/bcalvario/Database-Fundamentals/tree/main/Laboratorio/Entrega02A)
+* [Modelo Entidad-Relación (versión B)](https://github.com/bcalvario/Database-Fundamentals/tree/main/Laboratorio/Entrega02B)
